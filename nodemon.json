@@ -1,0 +1,8 @@
+{
+  "watch": ["app", "public"],
+  "ext": ".js,.jsx,.ts,.tsx,.css,.json",
+  "ignore": ["node_modules", ".next"],
+  "exec": "next dev",
+  "delay": "1000",
+  "verbose": true
+} 
